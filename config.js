@@ -18,10 +18,10 @@ module.exports = {
   nodes: [
      {
       name: "Dj Lara",
-      password: "https://dsc.gg/ajidevserver",
-      host: "lava-v3.ajieblogs.eu.org",
-      port:  443,
-      secure: true
+      password: "foxlaneacademy",
+      host: "194.58.66.44",
+      port:  6886,
+      secure: false
     }
   ]
 }
