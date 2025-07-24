@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
      {
       name: "Dj Lara",
-      password: "foxlaneacademy",
-      host: "astro.wisp.uno",
-      port:  12769,
+      password: "github.com/AxMilin",
+      host: "node2.axmilin.in.th",
+      port:  60285,
       secure: false
     }
   ]
