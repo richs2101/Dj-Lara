@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "Dj Lara",
       password: "foxlaneacademy",
-      host: "194.58.66.44",
-      port:  6886,
+      host: "astro.wisp.uno",
+      port:  12769,
       secure: false
     }
   ]
