@@ -19,8 +19,8 @@ module.exports = {
      {
       name: "Dj Lara",
       password: "foxlaneacademy",
-      host: "lava-v4.ajieblogs.eu.org",
-      port: 80,
+      host: "194.58.66.44",
+      port: 6886,
       secure: false
     }
   ]
