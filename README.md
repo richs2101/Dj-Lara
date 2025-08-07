@@ -12,7 +12,7 @@ SHAPESINC_API_KEY=GET_API_KEY_FROM : https://shapes.inc/developer and click on S
 SHAPESINC_SHAPE_USERNAME=GET_THE_NAME_OF_THE_SHAPE on https://talk.shapes.inc/ that is connected to the same api.
  
 # Config.js
-Add mongoUri & spotify details or use mine.
+Add mongoUri & spotify details or use mine. Make sure to set the Owner ID as your discord id.
 
 # Supports
 - YouTube
